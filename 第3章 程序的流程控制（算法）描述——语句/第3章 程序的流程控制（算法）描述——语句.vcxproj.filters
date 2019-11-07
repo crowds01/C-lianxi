@@ -66,5 +66,17 @@
     <ClCompile Include="3.4 18,P69.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.4 19,P70.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4 20,P71.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5 21,P74.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5 22,P76.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
