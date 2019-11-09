@@ -27,5 +27,17 @@
     <ClCompile Include="5.2 4,P132.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.2 5,P133.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2 6,P133.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2 7,P136.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2 9,P139.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
