@@ -39,5 +39,11 @@
     <ClCompile Include="5.2 9,P139.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.2 10,P141.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.4 13,P153.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
