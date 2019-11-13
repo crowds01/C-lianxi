@@ -140,3 +140,31 @@ void multiply(const Matrix& m, const Vector& v, Vector& r)
 		p_r++;
 	}
 }
+
+int main()
+{
+	int row, column;
+	cout << "请输入矩阵的行数和列数：";
+	cin >> row >> column;
+	Matrix m(row, column);
+	Vector v(column);
+	Vector r(row);
+	cout << "请输入矩阵的元素：\n";
+	int i, j;
+	for (i = 0; i < row; i++)
+		for (j = 0; j < column; j++)
+			cin >> m.element(i);
+	cout << "请输入向量的元素：\n";
+	for (i = 0; i < column; i++)
+		cin >> v.element(i);
+
+	multiply(m, v, r);
+
+	cout << "矩阵：\n";
+	m.display();
+	cout << "与向量：\n";
+	v.display();
+	cout << "的乘积为：\n";
+	r.display();
+	return 0;
+}

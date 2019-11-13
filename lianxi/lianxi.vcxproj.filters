@@ -66,5 +66,8 @@
     <ClCompile Include="17 友元类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="18 运算符重载示例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
