@@ -69,5 +69,17 @@
     <ClCompile Include="18 运算符重载示例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19 赋值运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20 可变长数组类的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21 流插入运算符和流提取运算符的重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22 直接基类与简介基类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
