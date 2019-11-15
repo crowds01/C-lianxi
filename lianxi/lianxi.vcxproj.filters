@@ -102,5 +102,23 @@
     <ClCompile Include="29 流操纵算子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="30 文本方式读写文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31 二进制方式读写文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32 二进制文件读写例2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33 二进制文件读写例3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34 二进制文件读写例4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35 文件拷贝程序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
