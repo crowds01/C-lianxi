@@ -81,5 +81,26 @@
     <ClCompile Include="22 直接基类与简介基类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="23 多态的表现形式一.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24 多态实现原理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25 虚析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26 纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27 输出重定向.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28 输出重定向.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29 流操纵算子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
